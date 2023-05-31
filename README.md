@@ -38,8 +38,9 @@ To create the solid model from given drawing and section the solid model
  ![image](https://user-images.githubusercontent.com/113594316/198826282-7a4844a8-0cb2-4573-8940-9a60356b7d04.png)
 
 ## INPUT:
+![Screenshot 2023-05-30 190709](https://github.com/Hemasonica774/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/118361409/9ddf0d0d-6704-4d1d-8bbb-5401000c65b5)
 
-![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
+
 
 ## OUTPUT:
 
